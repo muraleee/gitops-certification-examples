@@ -9,4 +9,4 @@ spec:
   ports:
       - nodePort: 31000
         protocol: TCP
-        port: 8081  
+        port: 8080
